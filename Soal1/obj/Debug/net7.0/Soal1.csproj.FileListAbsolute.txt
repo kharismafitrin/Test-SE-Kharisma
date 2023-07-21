@@ -1,0 +1,15 @@
+/Users/kharism/Test-SE-Kharisma/Soal1/bin/Debug/net7.0/Soal1
+/Users/kharism/Test-SE-Kharisma/Soal1/bin/Debug/net7.0/Soal1.deps.json
+/Users/kharism/Test-SE-Kharisma/Soal1/bin/Debug/net7.0/Soal1.runtimeconfig.json
+/Users/kharism/Test-SE-Kharisma/Soal1/bin/Debug/net7.0/Soal1.dll
+/Users/kharism/Test-SE-Kharisma/Soal1/bin/Debug/net7.0/Soal1.pdb
+/Users/kharism/Test-SE-Kharisma/Soal1/obj/Debug/net7.0/Soal1.csproj.AssemblyReference.cache
+/Users/kharism/Test-SE-Kharisma/Soal1/obj/Debug/net7.0/Soal1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kharism/Test-SE-Kharisma/Soal1/obj/Debug/net7.0/Soal1.AssemblyInfoInputs.cache
+/Users/kharism/Test-SE-Kharisma/Soal1/obj/Debug/net7.0/Soal1.AssemblyInfo.cs
+/Users/kharism/Test-SE-Kharisma/Soal1/obj/Debug/net7.0/Soal1.csproj.CoreCompileInputs.cache
+/Users/kharism/Test-SE-Kharisma/Soal1/obj/Debug/net7.0/Soal1.dll
+/Users/kharism/Test-SE-Kharisma/Soal1/obj/Debug/net7.0/refint/Soal1.dll
+/Users/kharism/Test-SE-Kharisma/Soal1/obj/Debug/net7.0/Soal1.pdb
+/Users/kharism/Test-SE-Kharisma/Soal1/obj/Debug/net7.0/Soal1.genruntimeconfig.cache
+/Users/kharism/Test-SE-Kharisma/Soal1/obj/Debug/net7.0/ref/Soal1.dll
