@@ -36,11 +36,6 @@ class Program
 
     static void Main(string[] args)
     {
-        string[] inputs = {
-            "{ [ ( ) ] }",
-            "{ [ ( ] ) }",
-            "{ ( ( [ ] ) [ ] ) [ ] }"
-        };
         Console.Write("Input: ");
         string input = Console.ReadLine();
 
